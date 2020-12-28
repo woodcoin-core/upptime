@@ -24,7 +24,7 @@ status-website:
   introMessage: Stats for the woodcoin.org site and explorer.woodcoin.org subdomain
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
