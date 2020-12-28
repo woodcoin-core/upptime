@@ -18,7 +18,7 @@ status-website:
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/woodcoin-core/woodcoin-explorer/master/Abe/htdocs/logo32.png
   name: Upptime
   introTitle: Uptime stats
   introMessage: Stats for the woodcoin.org and explorer.woodcoin.org subdomain
