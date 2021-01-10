@@ -15,21 +15,21 @@ assignees: # Users to assign downtime issues
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # Not setting this because issues are good enough for me!
-  # cname: demo.upptime.js.org
+  cname: status.woodcoin.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /upptime
+  baseUrl: /
   logoUrl: https://raw.githubusercontent.com/woodcoin-core/woodcoin-explorer/master/Abe/htdocs/logo32.png
   name: Woodcoin
   introTitle: Uptime stats
   introMessage: Stats for the woodcoin.org site and explorer.woodcoin.org subdomain
   navbar:
     - title: Status
-      href: /upptime
+      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
 workflowSchedule:
-  graphs: "0 0 * * *"
+  graphs: "0 * * * *"
   responseTime: "0 23 * * *"
   staticSite: "0 1 * * *"
   summary: "0 0 * * *"
