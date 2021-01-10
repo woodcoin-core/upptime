@@ -14,7 +14,6 @@ assignees: # Users to assign downtime issues
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # Not setting this because issues are good enough for me!
   cname: status.woodcoin.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /
