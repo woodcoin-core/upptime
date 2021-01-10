@@ -13,10 +13,6 @@ assignees: # Users to assign downtime issues
   - Lvl4Sword
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: status.woodcoin.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /
   logoUrl: https://raw.githubusercontent.com/woodcoin-core/woodcoin-explorer/master/Abe/htdocs/logo32.png
   name: Woodcoin
   introTitle: Uptime stats
