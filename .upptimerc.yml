@@ -18,7 +18,7 @@ status-website:
   name: Woodcoin
   introTitle: Uptime stats
   introMessage: Stats for the woodcoin.org site, as well as explorer.woodcoin.org and new.explorer.woodcoin.org subdomains
-  cname: woodcoin-core.github.io
+  cname: status.woodcoin.org
   navbar:
     - title: Status
       href: /
