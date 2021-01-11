@@ -14,7 +14,7 @@ assignees:
   - Lvl4Sword
 
 status-website:
-  logoUrl: https://raw.githubusercontent.com/woodcoin-core/woodcoin-explorer/master/Abe/htdocs/logo32.png
+  logoUrl: https://raw.githubusercontent.com/woodcoin-core/media/main/logo/woodcoin128x128.png
   name: Woodcoin
   introTitle: Uptime stats
   introMessage: Stats for the woodcoin.org site, as well as explorer.woodcoin.org and new.explorer.woodcoin.org subdomains
