@@ -1,8 +1,7 @@
-# Change these first
-owner: woodcoin-core # Your GitHub username
-repo: upptime # Your Github repository name
+# See https://upptime.js.org/docs/configuration for documentation
+owner: woodcoin-core
+repo: upptime
 
-# Add your sites here
 sites:
   - name: Woodcoin Explorer
     url: https://explorer.woodcoin.org/chain/Woodcoin
@@ -11,7 +10,7 @@ sites:
   - name: Woodcoin New Explorer
     url: https://new.explorer.woodcoin.org
 
-assignees: # Users to assign downtime issues
+assignees:
   - Lvl4Sword
 
 status-website:
@@ -33,6 +32,3 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "*/5 * * * *"
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
