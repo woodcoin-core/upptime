@@ -8,6 +8,8 @@ sites:
     url: https://explorer.woodcoin.org/chain/Woodcoin
   - name: Woodcoin Site
     url: https://woodcoin.org
+  - name: Woodcoin New Explorer
+    url: https://new.explorer.woodcoin.org
 
 assignees: # Users to assign downtime issues
   - Lvl4Sword
