@@ -17,7 +17,8 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/woodcoin-core/woodcoin-explorer/master/Abe/htdocs/logo32.png
   name: Woodcoin
   introTitle: Uptime stats
-  introMessage: Stats for the woodcoin.org site and explorer.woodcoin.org subdomain
+  introMessage: Stats for the woodcoin.org site, as well as explorer.woodcoin.org and new.explorer.woodcoin.org subdomains
+  cname: status.woodcoin.org
   navbar:
     - title: Status
       href: /
