@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 212,
     "timeDay": 218,
-    "timeWeek": 125,
+    "timeWeek": 137,
     "timeMonth": 212,
     "timeYear": 212,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 340,
     "timeDay": 302,
-    "timeWeek": 345,
+    "timeWeek": 322,
     "timeMonth": 340,
     "timeYear": 340,
     "dailyMinutesDown": {}
@@ -40,9 +40,9 @@
     "url": "https://new.explorer.woodcoin.org",
     "icon": "https://favicons.githubusercontent.com/new.explorer.woodcoin.org",
     "slug": "woodcoin-new-explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 458,
     "timeMonth": 458,
     "timeYear": 458,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-17": 0
+    }
   }
 ]
