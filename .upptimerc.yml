@@ -7,8 +7,6 @@ sites:
     url: https://explorer.woodcoin.org/chain/Woodcoin
   - name: Woodcoin Site
     url: https://woodcoin.org
-  - name: Woodcoin New Explorer
-    url: https://new.explorer.woodcoin.org
 
 assignees:
   - Lvl4Sword
@@ -17,7 +15,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/woodcoin-core/media/main/logo/woodcoin128x128.png
   name: Woodcoin
   introTitle: Uptime stats
-  introMessage: Stats for the woodcoin.org site, as well as explorer.woodcoin.org and new.explorer.woodcoin.org subdomains
+  introMessage: Stats for woodcoin.org and explorer.woodcoin.org
   cname: status.woodcoin.org
   navbar:
     - title: Status
