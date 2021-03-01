@@ -25,19 +25,19 @@
     "url": "https://woodcoin.org",
     "icon": "https://favicons.githubusercontent.com/woodcoin.org",
     "slug": "woodcoin-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 322,
-    "timeDay": 139,
-    "timeWeek": 279,
-    "timeMonth": 291,
-    "timeYear": 322,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
+    "time": 319,
+    "timeDay": 95,
+    "timeWeek": 250,
+    "timeMonth": 282,
+    "timeYear": 319,
     "dailyMinutesDown": {
-      "2021-03-01": 0
+      "2021-03-01": 24
     }
   }
 ]
